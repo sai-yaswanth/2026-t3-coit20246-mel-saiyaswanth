@@ -1,1 +1,1 @@
-#week 1 journal
+Week 1 | Computer Systems and Applications
