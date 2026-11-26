@@ -8,3 +8,5 @@ I've got a fairly basic level of knowledge of computer networking, the internet,
 I have a pretty basic level of understanding of cyber security (data protection, user authentication, encryption, the threat of cyber attack etc). In the context of cloud computing I know how cloud services are used to store data, run applications and give you access to computing resources without you having to manage it all on your own.
 
 Most of this knowledge comes from my bachelor's degree, classroom learning, lab activities and self-learning. I have worked with Python, VS Code and other programming tools during my studies, but I still need more practical experience with networking, Linux, cyber security and cloud platforms. I am interested in learning these topics in more depth and improving my practical knowledge throughout this unit.
+
+[Knowledge Test ] (
