@@ -9,4 +9,4 @@ I have a pretty basic level of understanding of cyber security (data protection,
 
 Most of this knowledge comes from my bachelor's degree, classroom learning, lab activities and self-learning. I have worked with Python, VS Code and other programming tools during my studies, but I still need more practical experience with networking, Linux, cyber security and cloud platforms. I am interested in learning these topics in more depth and improving my practical knowledge throughout this unit.
 
-[Knowledge Test ] (./C:\Users\YASHWANTH\OneDrive\图片\Screenshots\Screenshot 2026-11-26 205437.png)
+[Knowledge Test ] (./)
